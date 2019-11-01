@@ -1,0 +1,17 @@
+const axios = require('axios'):
+
+
+
+axios.get('/contactlist')
+  .then(res => {
+    console.log(res.data)
+    print(res.data)
+  })
+
+/*
+axios.post('/contactlist', {name: "", category: "스포츠"})
+  .then(res => {
+
+    console.log(res);
+  })
+ */
