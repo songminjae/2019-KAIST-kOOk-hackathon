@@ -14,7 +14,7 @@ TEAM DDD – 김영민 송민재
 
 ![Personalpage](https://user-images.githubusercontent.com/52192602/68075437-3af83e00-fdeb-11e9-9ceb-aab5320f0f4e.png)
 
- 유저가 새로운 책을 입력할 때 마다 입력한 책과 동떨어진 카테고리의 책을 랜덤하게 추천해줌. 카태고리의 책은 각 카테고리 별로 교보문구 bestseller를 web crawling을 통해 db에 저장함.
+ 유저가 새로운 책을 입력할 때 마다 입력한 책과 동떨어진 카테고리의 책을 랜덤하게 추천해줌. 카태고리의 책은 각 카테고리 별로 교보문고 bestseller를 web crawling을 통해 db에 저장함.
  
 ![update](https://user-images.githubusercontent.com/52192602/68075439-3fbcf200-fdeb-11e9-862b-8e41da1f4d8b.png)
 
