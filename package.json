@@ -2,7 +2,7 @@
   "name": "contactlist",
   "version": "1.0.0",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "express": "^4.14.0",
     "mongodb": "^2.2.2",
